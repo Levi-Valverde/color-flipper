@@ -4,4 +4,4 @@ This is a color flipper. Color Flipper is a fun mini javascript project where yo
 
 #Preview
 
-To view this project on a website, go directly to my repository via the link
+To view this project on a website, go directly to my repository via the link https://levi-valverde.github.io/color-flipper/
